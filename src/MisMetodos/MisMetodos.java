@@ -1,3 +1,5 @@
+package MisMetodos;
+
 import javax.swing.*;
 
 public class MisMetodos {
