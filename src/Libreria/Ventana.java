@@ -12,7 +12,7 @@ public class Ventana {
     }
 
     public void visualizar(String mensaje){
-        JOptionPane.showMessageDialog(null,"sale por una ventana"+mensaje);
+        JOptionPane.showMessageDialog(null,"sale por una ventana "+mensaje);
     }
 
 
