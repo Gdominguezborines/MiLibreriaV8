@@ -2,6 +2,7 @@ package Libreria;
 
 public class Consola {
 private String mensaje;
+
     public Consola(){
 
     }
